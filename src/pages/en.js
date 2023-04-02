@@ -9,7 +9,7 @@ import Router from 'next/router';
 
 export default function Home2() {
   const [visible3,setVisible3] = useState(false)
-  const pageLink = "https://dofuspourlesn00bs.vercel.app/dofus/en";
+  const pageLink = "https://dofus-retrro.vercel.app/dofus/en";
 
 
   return (

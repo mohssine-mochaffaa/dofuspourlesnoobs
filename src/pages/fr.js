@@ -8,7 +8,7 @@ import Router from 'next/router';
 
 export default function Home() {
  
-  const pageLink = "https://dofuspourlesn00bs.vercel.app/dofus/fr";
+  const pageLink = "https://dofus-retrro.vercel.app/dofus/fr";
 
   return (
     <>
